@@ -8,6 +8,7 @@
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align="left"/>][youtube]
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][twitter]
+[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][twitter2]
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][instagram]
 
 <br />
@@ -37,5 +38,5 @@
 
 [youtube]: https://www.youtube.com/c/Elzem-xSadeceBenimsin
 [twitter]:  https://twitter.com/xSadeceBenimsin
-[twitter]: https://twitter.com/ElzemTHT
+[twitter2]: https://twitter.com/ElzemTHT
 [instagram]: https://www.instagram.com/canaksx/
