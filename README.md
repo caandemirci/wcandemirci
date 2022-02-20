@@ -2,7 +2,7 @@
 
 ### Hi there,I'm Can. :blush:
 
-## Software Developer | Cyber Security Expert
+## Software Developer | Full Stack Developer
 
 ## Reach out to me
 
