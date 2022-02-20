@@ -38,5 +38,5 @@
 
 [youtube]: https://www.youtube.com/c/Elzem-xSadeceBenimsin
 [twitter]:  https://twitter.com/xSadeceBenimsin
-[twitter2]: https://twitter.com/ElzemTHT
-[instagram]: https://www.instagram.com/canaksx/
+[twitter2]: https://twitter.com/wcandemirci
+[instagram]: https://www.instagram.com/xcandmrc/
