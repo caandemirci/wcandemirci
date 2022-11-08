@@ -1,4 +1,4 @@
-<img src="https://media3.giphy.com/media/d89g6Ln84zpnsG5A0X/giphy.gif?cid=ecf05e474ewrbvqtjcdb8svq1nuxzgfr5f3cfvtcqkqkcfuv&rid=giphy.gif&ct=g" align="right" widht="400" height="200">
+<img src="https://thumbs.gfycat.com/AdmirableBrownAmmonite-size_restricted.gif" align="right" widht="400" height="200">
 
 ### Hi there,I'm Can. :heart:
 
