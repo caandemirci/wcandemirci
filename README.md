@@ -2,7 +2,7 @@
 
 ### Hi there,I'm Can. :heart:
 
-## Software Developer | Full Stack Developer
+## Graphic Designer | Web Developer
 
 ## Reach out to me
 
@@ -36,7 +36,7 @@
 </details>
 
 
-[youtube]: https://www.youtube.com/c/Elzem-xSadeceBenimsin
+[youtube]: https://www.youtube.com/
 [twitter]:  https://twitter.com/xSadeceBenimsin
 [twitter2]: https://twitter.com/wcandemirci
-[instagram]: https://www.instagram.com/xcandmrc/
+[instagram]: https://www.instagram.com/caandemirci/
