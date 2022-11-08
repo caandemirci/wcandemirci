@@ -7,7 +7,6 @@
 ## Reach out to me
 
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/youtube.svg" align="left"/>][youtube]
-[<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][twitter]
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/twitter.svg" align="left"/>][twitter2]
 [<img width="22" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" align="left"/>][instagram]
 
