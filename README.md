@@ -1,6 +1,6 @@
 <img src="https://thumbs.gfycat.com/AdmirableBrownAmmonite-size_restricted.gif" align="right" widht="400" height="200">
 
-### Hi there,I'm Can. :heart:
+### Can Demirci
 
 ## Graphic Designer | Web Developer
 
